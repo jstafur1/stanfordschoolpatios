@@ -1,0 +1,538 @@
+{
+  "exportedAt": "2026-08-01T07:00:35.815Z",
+  "counts": {
+    "courses": 6,
+    "content": 7,
+    "enrollments": 26,
+    "groups": 7,
+    "languages": 1
+  },
+  "courses": [
+    {
+      "id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "title": "Inglés A1 – Presentaciones y Saludos",
+      "description": "Domina las frases clave para presentarte, saludar y despedirte en situaciones formales e informales en inglés.",
+      "category_id": null,
+      "created_by": "2af0cc70-f385-4c97-ad25-c275fbe26fef",
+      "published": true,
+      "created_at": "2026-06-22T06:55:24.189155+00:00",
+      "updated_at": "2026-06-22T07:30:18.798+00:00",
+      "language_id": "05e4e115-e20e-48ae-a077-1e7c9a025f85",
+      "title_es": "Inglés A1 – Presentaciones y Saludos",
+      "title_en": "English A1 – Introductions & Greetings",
+      "title_fr": "Anglais A1 – Présentations et Salutations",
+      "description_es": "Domina las frases clave para presentarte, saludar y despedirte en situaciones formales e informales en inglés.",
+      "description_en": "Master the key phrases to introduce yourself, greet others, and say goodbye in both formal and informal English situations.",
+      "description_fr": "Maîtrisez les phrases clés pour vous présenter, saluer et dire au revoir dans des situations formelles et informelles en anglais.",
+      "level": "A1"
+    },
+    {
+      "id": "096fbf03-d479-4027-904a-be61ad15d0b6",
+      "title": "E2E English Course",
+      "description": null,
+      "category_id": null,
+      "created_by": null,
+      "published": true,
+      "created_at": "2026-06-22T09:00:25.333606+00:00",
+      "updated_at": "2026-06-22T09:00:25.333606+00:00",
+      "language_id": "05e4e115-e20e-48ae-a077-1e7c9a025f85",
+      "title_es": "E2E English Course",
+      "title_en": "E2E English Course",
+      "title_fr": "E2E English Course",
+      "description_es": "Curso de prueba E2E",
+      "description_en": "E2E test course",
+      "description_fr": "Cours de test E2E",
+      "level": null
+    },
+    {
+      "id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "title": "Inglés A1 - Palabras básicas",
+      "description": "Aprende el vocabulario esencial del inglés cotidiano: objetos, colores, números y saludos para comunicarte desde cero.",
+      "category_id": null,
+      "created_by": "2af0cc70-f385-4c97-ad25-c275fbe26fef",
+      "published": true,
+      "created_at": "2026-06-05T23:52:45.9015+00:00",
+      "updated_at": "2026-06-22T07:29:55.557+00:00",
+      "language_id": "05e4e115-e20e-48ae-a077-1e7c9a025f85",
+      "title_es": "Inglés A1 - Palabras básicas",
+      "title_en": "English A1 - Basic Word",
+      "title_fr": "Anglais 1 - Palabras básicas",
+      "description_es": "Aprende el vocabulario esencial del inglés cotidiano: objetos, colores, números y saludos para comunicarte desde cero.",
+      "description_en": "Learn essential everyday English vocabulary: objects, colors, numbers, and greetings to start communicating from scratch.",
+      "description_fr": "Apprenez le vocabulaire essentiel de l'anglais quotidien : objets, couleurs, chiffres et salutations pour commencer à communiquer.",
+      "level": "A1"
+    },
+    {
+      "id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "title": "Inglés A1 – Números, Fechas y Tiempo",
+      "description": "Aprende a usar números, decir la hora, hablar de fechas y describir el clima con confianza en inglés básico.",
+      "category_id": null,
+      "created_by": "2af0cc70-f385-4c97-ad25-c275fbe26fef",
+      "published": true,
+      "created_at": "2026-06-22T06:55:57.733018+00:00",
+      "updated_at": "2026-06-22T07:30:02.31+00:00",
+      "language_id": "05e4e115-e20e-48ae-a077-1e7c9a025f85",
+      "title_es": "Inglés A1 – Números, Fechas y Tiempo",
+      "title_en": "English A1 – Numbers, Dates & Time",
+      "title_fr": "Anglais A1 – Chiffres, Dates et Temps",
+      "description_es": "Aprende a usar números, decir la hora, hablar de fechas y describir el clima con confianza en inglés básico.",
+      "description_en": "Learn to use numbers, tell the time, talk about dates, and describe the weather with confidence in basic English.",
+      "description_fr": "Apprenez à utiliser les chiffres, dire l'heure, parler des dates et décrire la météo avec confiance en anglais de base.",
+      "level": "A1"
+    },
+    {
+      "id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "title": "Inglés A1 – Primeras Conversaciones",
+      "description": "Practica diálogos simples sobre compras, direcciones y lugares comunes para desenvolverte en situaciones reales desde el nivel inicial.",
+      "category_id": null,
+      "created_by": "2af0cc70-f385-4c97-ad25-c275fbe26fef",
+      "published": true,
+      "created_at": "2026-06-22T06:57:10.827891+00:00",
+      "updated_at": "2026-06-22T07:30:10.218+00:00",
+      "language_id": "05e4e115-e20e-48ae-a077-1e7c9a025f85",
+      "title_es": "Inglés A1 – Primeras Conversaciones",
+      "title_en": "English A1 – First Conversations",
+      "title_fr": "Anglais A1 – Premières Conversations",
+      "description_es": "Practica diálogos simples sobre compras, direcciones y lugares comunes para desenvolverte en situaciones reales desde el nivel inicial.",
+      "description_en": "Practice simple dialogues about shopping, directions, and common places to handle real-life situations from the very beginning.",
+      "description_fr": "Pratiquez des dialogues simples sur les achats, les directions et les lieux communs pour vous débrouiller dans des situations réelles dès le début.",
+      "level": "A1"
+    },
+    {
+      "id": "994e4e8e-0611-4cd4-8648-46b57de6cfac",
+      "title": "Inglés A1 – Mi Vida Diaria",
+      "description": "Describe tu rutina diaria, tu familia y tu hogar usando estructuras simples del presente en inglés.",
+      "category_id": null,
+      "created_by": "2af0cc70-f385-4c97-ad25-c275fbe26fef",
+      "published": true,
+      "created_at": "2026-06-22T06:56:30.684345+00:00",
+      "updated_at": "2026-06-22T07:30:14.48+00:00",
+      "language_id": "05e4e115-e20e-48ae-a077-1e7c9a025f85",
+      "title_es": "Inglés A1 – Mi Vida Diaria",
+      "title_en": "English A1 – My Daily Life",
+      "title_fr": "Anglais A1 – Ma Vie Quotidienne",
+      "description_es": "Describe tu rutina diaria, tu familia y tu hogar usando estructuras simples del presente en inglés.",
+      "description_en": "Describe your daily routine, your family, and your home using simple present tense structures in English.",
+      "description_fr": "Décrivez votre routine quotidienne, votre famille et votre maison en utilisant des structures simples au présent en anglais.",
+      "level": "A1"
+    }
+  ],
+  "course_content": [
+    {
+      "id": "e5ebdad8-4af4-405d-8a74-f9e89d19d423",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "title": "Lesson1",
+      "sort_order": 0,
+      "content_type": "pdf",
+      "storage_path": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036/e5ebdad8-4af4-405d-8a74-f9e89d19d423/PowerBI_IA_Dashboard.pdf",
+      "external_url": null,
+      "created_at": "2026-06-06T00:07:35.009063+00:00"
+    },
+    {
+      "id": "8b19944e-cad9-43ab-b77d-6be4a42a104b",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "title": "HOLA1",
+      "sort_order": 0,
+      "content_type": "youtube",
+      "storage_path": null,
+      "external_url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=RDdQw4w9WgXcQ&start_radio=1",
+      "created_at": "2026-06-06T00:08:45.016842+00:00"
+    },
+    {
+      "id": "79d306b7-3304-4a1f-9997-6361b1b536f0",
+      "course_id": "096fbf03-d479-4027-904a-be61ad15d0b6",
+      "title": "E2E Sample Video",
+      "sort_order": 0,
+      "content_type": "youtube",
+      "storage_path": null,
+      "external_url": "https://www.youtube.com/watch?v=jNQXAC9IVRw",
+      "created_at": "2026-06-22T09:00:27.816497+00:00"
+    },
+    {
+      "id": "2594acd4-2ffa-4bd9-9d77-65470708842f",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "title": "Lesson 1",
+      "sort_order": 0,
+      "content_type": "image",
+      "storage_path": "84ca5b2a-8a34-4320-8314-a2586e8804dd/2594acd4-2ffa-4bd9-9d77-65470708842f/727466363_1036634408924085_7131398751192629200_n.jpeg",
+      "external_url": null,
+      "created_at": "2026-06-24T19:50:36.431792+00:00"
+    },
+    {
+      "id": "7511e9fa-11bc-4937-9ef2-c25cf8852eab",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "title": "Lesson 2",
+      "sort_order": 1,
+      "content_type": "excel",
+      "storage_path": "84ca5b2a-8a34-4320-8314-a2586e8804dd/7511e9fa-11bc-4937-9ef2-c25cf8852eab/8. FO-GA-001 DIAGRAMA DE GANTT L-V.xls",
+      "external_url": null,
+      "created_at": "2026-06-24T19:50:56.943716+00:00"
+    },
+    {
+      "id": "1c05b43f-c7c3-48fb-8710-f1a8cbba9ac2",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "title": "Audio3",
+      "sort_order": 3,
+      "content_type": "audio",
+      "storage_path": "84ca5b2a-8a34-4320-8314-a2586e8804dd/1c05b43f-c7c3-48fb-8710-f1a8cbba9ac2/audio1.mp3",
+      "external_url": null,
+      "created_at": "2026-06-24T19:54:34.890959+00:00"
+    },
+    {
+      "id": "6846274f-eb40-44cf-939b-ac4b9d199999",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "title": "Latest content- a great video",
+      "sort_order": 4,
+      "content_type": "video",
+      "storage_path": "84ca5b2a-8a34-4320-8314-a2586e8804dd/6846274f-eb40-44cf-939b-ac4b9d199999/videoplayback.mp4",
+      "external_url": null,
+      "created_at": "2026-06-24T19:57:40.901923+00:00"
+    }
+  ],
+  "course_enrollments": [
+    {
+      "id": "06d0bfb6-abe4-48b6-9e40-08af170212f2",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "student_id": "ba4339d1-568d-4742-9a46-fe888e057807",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-05T23:54:33.469883+00:00",
+      "completed_at": null,
+      "group_id": "40f6f1fb-fb97-4e40-9ca9-7b5132f098b8"
+    },
+    {
+      "id": "83962b62-8d16-4f6e-a60f-20fd08e7a4df",
+      "course_id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "student_id": "f7fc9b90-b378-4766-a0af-f6052eed4ddb",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:08:35.516868+00:00",
+      "completed_at": null,
+      "group_id": "39c21593-fd4e-4e82-a3b0-4c6f9f140c7a"
+    },
+    {
+      "id": "4b972c3e-af49-41b5-a877-e8a39708d73c",
+      "course_id": "994e4e8e-0611-4cd4-8648-46b57de6cfac",
+      "student_id": "f7fc9b90-b378-4766-a0af-f6052eed4ddb",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:08:35.516868+00:00",
+      "completed_at": null,
+      "group_id": "d5ba0650-40d8-49fe-8a14-5d9ba0c6878a"
+    },
+    {
+      "id": "6adc13ae-fecd-495c-ba5c-46785f8e832d",
+      "course_id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "student_id": "f7fc9b90-b378-4766-a0af-f6052eed4ddb",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:08:35.516868+00:00",
+      "completed_at": null,
+      "group_id": "90fde659-20e8-4fd3-b13e-82ff18f07aa9"
+    },
+    {
+      "id": "5342a70f-51ce-4e5c-ad8e-34238bd04862",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "student_id": "b6321dba-1143-4549-887b-bc54d63933e8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:08:57.514713+00:00",
+      "completed_at": null,
+      "group_id": "40f6f1fb-fb97-4e40-9ca9-7b5132f098b8"
+    },
+    {
+      "id": "4b19f8f8-4767-4ac5-90ea-ae683f7b77b5",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "student_id": "b6321dba-1143-4549-887b-bc54d63933e8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:08:57.514713+00:00",
+      "completed_at": null,
+      "group_id": "60ff239d-e40b-4c82-add8-38876c2ca9fd"
+    },
+    {
+      "id": "a988562f-4ad3-4fa9-8124-79fe719c21ec",
+      "course_id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "student_id": "b6321dba-1143-4549-887b-bc54d63933e8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:08:57.514713+00:00",
+      "completed_at": null,
+      "group_id": "39c21593-fd4e-4e82-a3b0-4c6f9f140c7a"
+    },
+    {
+      "id": "9eeb3dc8-505d-4a99-bdc0-1111a25823c5",
+      "course_id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "student_id": "b6321dba-1143-4549-887b-bc54d63933e8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:08:57.514713+00:00",
+      "completed_at": null,
+      "group_id": "90fde659-20e8-4fd3-b13e-82ff18f07aa9"
+    },
+    {
+      "id": "995257b5-486e-496b-b601-2c7d2b5b743b",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "student_id": "f6440255-8bcd-4ba7-9d11-671ce6a5e0a3",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:09:35.801498+00:00",
+      "completed_at": null,
+      "group_id": "60ff239d-e40b-4c82-add8-38876c2ca9fd"
+    },
+    {
+      "id": "87b139ba-99d9-42c2-bd05-0321798addb0",
+      "course_id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "student_id": "f6440255-8bcd-4ba7-9d11-671ce6a5e0a3",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:09:35.801498+00:00",
+      "completed_at": null,
+      "group_id": "39c21593-fd4e-4e82-a3b0-4c6f9f140c7a"
+    },
+    {
+      "id": "67567db1-ee37-4bc8-822f-0729a2af4a50",
+      "course_id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "student_id": "f6440255-8bcd-4ba7-9d11-671ce6a5e0a3",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:09:35.801498+00:00",
+      "completed_at": null,
+      "group_id": "90fde659-20e8-4fd3-b13e-82ff18f07aa9"
+    },
+    {
+      "id": "b9de09ef-9594-4b27-89c4-fd0d6c175850",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "student_id": "3200ff8a-ff63-4480-84d8-a37b0b6fe655",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:09:55.43156+00:00",
+      "completed_at": null,
+      "group_id": "40f6f1fb-fb97-4e40-9ca9-7b5132f098b8"
+    },
+    {
+      "id": "b6658084-d343-467b-aa81-62f713575761",
+      "course_id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "student_id": "3200ff8a-ff63-4480-84d8-a37b0b6fe655",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:09:55.43156+00:00",
+      "completed_at": null,
+      "group_id": "39c21593-fd4e-4e82-a3b0-4c6f9f140c7a"
+    },
+    {
+      "id": "c56aaa69-4567-4f3a-b0a7-bccaa92a660e",
+      "course_id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "student_id": "3200ff8a-ff63-4480-84d8-a37b0b6fe655",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:09:55.43156+00:00",
+      "completed_at": null,
+      "group_id": "90fde659-20e8-4fd3-b13e-82ff18f07aa9"
+    },
+    {
+      "id": "bbde4cd1-22f8-4593-b4b0-b7db908dbc2c",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "student_id": "dd338b76-866d-42bd-8511-4d9f955369c9",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:11:11.020215+00:00",
+      "completed_at": null,
+      "group_id": "40f6f1fb-fb97-4e40-9ca9-7b5132f098b8"
+    },
+    {
+      "id": "7a6b1a41-d8a2-467b-a5ae-d3fb3dcba153",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "student_id": "dd338b76-866d-42bd-8511-4d9f955369c9",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:11:11.020215+00:00",
+      "completed_at": null,
+      "group_id": "60ff239d-e40b-4c82-add8-38876c2ca9fd"
+    },
+    {
+      "id": "5ae25c37-976d-4fac-a862-fa79bd2e9928",
+      "course_id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "student_id": "dd338b76-866d-42bd-8511-4d9f955369c9",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:11:11.020215+00:00",
+      "completed_at": null,
+      "group_id": "39c21593-fd4e-4e82-a3b0-4c6f9f140c7a"
+    },
+    {
+      "id": "66edb359-d126-484b-b217-f8bed7ca50fd",
+      "course_id": "994e4e8e-0611-4cd4-8648-46b57de6cfac",
+      "student_id": "dd338b76-866d-42bd-8511-4d9f955369c9",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:11:11.020215+00:00",
+      "completed_at": null,
+      "group_id": "d5ba0650-40d8-49fe-8a14-5d9ba0c6878a"
+    },
+    {
+      "id": "820f77f1-ba76-4b16-9c84-2db31b538e84",
+      "course_id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "student_id": "dd338b76-866d-42bd-8511-4d9f955369c9",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T07:11:11.020215+00:00",
+      "completed_at": null,
+      "group_id": "90fde659-20e8-4fd3-b13e-82ff18f07aa9"
+    },
+    {
+      "id": "a32712e3-2211-42f4-9682-3e4ef9cc883d",
+      "course_id": "096fbf03-d479-4027-904a-be61ad15d0b6",
+      "student_id": "ebbaf887-919f-4dcf-b2f4-f987445f2e91",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-22T09:00:25.9951+00:00",
+      "completed_at": null,
+      "group_id": "f72e4baf-63bd-41ee-9239-d0492f2489a7"
+    },
+    {
+      "id": "a432e790-c6e6-4309-8b46-48cd3f34d33d",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "student_id": "b186c6fe-c48a-4bba-8f23-95efb7cbeac8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-24T19:39:32.015124+00:00",
+      "completed_at": null,
+      "group_id": "60ff239d-e40b-4c82-add8-38876c2ca9fd"
+    },
+    {
+      "id": "40c5cba9-bcbe-4080-a756-35bb72e1f9de",
+      "course_id": "096fbf03-d479-4027-904a-be61ad15d0b6",
+      "student_id": "b186c6fe-c48a-4bba-8f23-95efb7cbeac8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-24T19:39:32.015124+00:00",
+      "completed_at": null,
+      "group_id": "f72e4baf-63bd-41ee-9239-d0492f2489a7"
+    },
+    {
+      "id": "3f709ef8-ee10-4ac3-a4fc-2061d0d82850",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "student_id": "b186c6fe-c48a-4bba-8f23-95efb7cbeac8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-24T19:39:32.015124+00:00",
+      "completed_at": null,
+      "group_id": "40f6f1fb-fb97-4e40-9ca9-7b5132f098b8"
+    },
+    {
+      "id": "57d28ddb-0899-45ca-945f-73ee2dc765dd",
+      "course_id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "student_id": "b186c6fe-c48a-4bba-8f23-95efb7cbeac8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-24T19:39:32.015124+00:00",
+      "completed_at": null,
+      "group_id": "39c21593-fd4e-4e82-a3b0-4c6f9f140c7a"
+    },
+    {
+      "id": "d1a733c5-d51e-48b8-9aec-e398335f1170",
+      "course_id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "student_id": "b186c6fe-c48a-4bba-8f23-95efb7cbeac8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-24T19:39:32.015124+00:00",
+      "completed_at": null,
+      "group_id": "90fde659-20e8-4fd3-b13e-82ff18f07aa9"
+    },
+    {
+      "id": "b391f116-a956-45fe-8bf9-ef322799fdcb",
+      "course_id": "994e4e8e-0611-4cd4-8648-46b57de6cfac",
+      "student_id": "b186c6fe-c48a-4bba-8f23-95efb7cbeac8",
+      "status": "active",
+      "completion_status": "in_progress",
+      "enrolled_at": "2026-06-24T19:39:32.015124+00:00",
+      "completed_at": null,
+      "group_id": "d5ba0650-40d8-49fe-8a14-5d9ba0c6878a"
+    }
+  ],
+  "course_groups": [
+    {
+      "id": "40f6f1fb-fb97-4e40-9ca9-7b5132f098b8",
+      "course_id": "4fbbfc13-142f-4ab0-a8b2-9baf0f205036",
+      "name": "Group 1",
+      "sort_order": 0,
+      "max_students": null,
+      "is_active": true,
+      "created_at": "2026-06-19T22:16:42.083245+00:00",
+      "updated_at": "2026-06-19T22:16:42.083245+00:00"
+    },
+    {
+      "id": "60ff239d-e40b-4c82-add8-38876c2ca9fd",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "name": "Group 1",
+      "sort_order": 0,
+      "max_students": null,
+      "is_active": true,
+      "created_at": "2026-06-22T06:55:24.352959+00:00",
+      "updated_at": "2026-06-22T06:55:24.352959+00:00"
+    },
+    {
+      "id": "39c21593-fd4e-4e82-a3b0-4c6f9f140c7a",
+      "course_id": "32f79813-40f2-475c-9c2b-51417597b8cc",
+      "name": "Group 1",
+      "sort_order": 0,
+      "max_students": null,
+      "is_active": true,
+      "created_at": "2026-06-22T06:55:57.892996+00:00",
+      "updated_at": "2026-06-22T06:55:57.892996+00:00"
+    },
+    {
+      "id": "d5ba0650-40d8-49fe-8a14-5d9ba0c6878a",
+      "course_id": "994e4e8e-0611-4cd4-8648-46b57de6cfac",
+      "name": "Group 1",
+      "sort_order": 0,
+      "max_students": null,
+      "is_active": true,
+      "created_at": "2026-06-22T06:56:30.834485+00:00",
+      "updated_at": "2026-06-22T06:56:30.834485+00:00"
+    },
+    {
+      "id": "90fde659-20e8-4fd3-b13e-82ff18f07aa9",
+      "course_id": "d13c47e0-9446-4f45-a88b-7e82c614d332",
+      "name": "Group 1",
+      "sort_order": 0,
+      "max_students": null,
+      "is_active": true,
+      "created_at": "2026-06-22T06:57:10.986847+00:00",
+      "updated_at": "2026-06-22T06:57:10.986847+00:00"
+    },
+    {
+      "id": "f72e4baf-63bd-41ee-9239-d0492f2489a7",
+      "course_id": "096fbf03-d479-4027-904a-be61ad15d0b6",
+      "name": "Group 1",
+      "sort_order": 0,
+      "max_students": null,
+      "is_active": true,
+      "created_at": "2026-06-22T09:00:25.729027+00:00",
+      "updated_at": "2026-06-22T09:00:25.729027+00:00"
+    },
+    {
+      "id": "f10f8e30-521e-49a8-b2c8-deacc6c9d5a4",
+      "course_id": "84ca5b2a-8a34-4320-8314-a2586e8804dd",
+      "name": "Grupo 2",
+      "sort_order": 1,
+      "max_students": null,
+      "is_active": true,
+      "created_at": "2026-06-24T20:02:22.192081+00:00",
+      "updated_at": "2026-06-24T20:02:22.192081+00:00"
+    }
+  ],
+  "languages": [
+    {
+      "id": "05e4e115-e20e-48ae-a077-1e7c9a025f85",
+      "name": "Inglés",
+      "code": "en",
+      "is_active": true,
+      "created_at": "2026-06-01T01:23:49.566109+00:00",
+      "name_es": "Inglés",
+      "name_en": "English",
+      "name_fr": "Anglais"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1780270607188,
+      "tag": "0000_marvelous_dreadnoughts",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1780273353668,
+      "tag": "0001_curly_scrambler",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1780701657703,
+      "tag": "0002_faulty_captain_universe",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1781900690352,
+      "tag": "0003_minor_overlord",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1781901939097,
+      "tag": "0004_perfect_anita_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1782113115814,
+      "tag": "0005_gorgeous_anita_blake",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1785567601749,
+      "tag": "0006_quiet_union_jack",
+      "breakpoints": true
+    }
+  ]
+}

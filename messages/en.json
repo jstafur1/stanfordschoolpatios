@@ -1,0 +1,997 @@
+{
+  "common": {
+    "brand": "Stanford English Academy",
+    "login": "Log in",
+    "send": "Send",
+    "learnMore": "Learn more",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "themeLight": "Light",
+    "themeDark": "Dark",
+    "themeAuto": "Auto",
+    "themeToggleLabel": "Change color theme",
+    "loadMap": "Show map"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About us",
+    "employment": "Careers",
+    "contact": "Contact"
+  },
+  "employment": {
+    "careersLabel": "Careers",
+    "title": "Join our team",
+    "subtitle": "Explore open positions at Stanford English Academy and apply online.",
+    "applyNow": "Apply now",
+    "empty": "There are no open positions at the moment. Check back soon.",
+    "viewDetails": "View details",
+    "backToList": "All positions",
+    "deadline": "Apply by {date}",
+    "description": "About the role",
+    "requirements": "Requirements",
+    "benefits": "Benefits",
+    "contact": "Contact",
+    "applyTitle": "Apply for this position",
+    "fullName": "Full name",
+    "email": "Email",
+    "phone": "Phone (optional)",
+    "yearsExperience": "Years of experience",
+    "linkedin": "LinkedIn (optional)",
+    "portfolio": "Portfolio URL (optional)",
+    "availability": "Available from (optional)",
+    "coverLetter": "Cover letter (optional)",
+    "cv": "CV / resume (optional)",
+    "cvHint": "PDF, Word, or image. Max 10 MB.",
+    "submit": "Submit application",
+    "submitting": "Submitting…",
+    "applySuccess": "Application submitted",
+    "applySuccessHint": "Thank you. Our team will review your application and contact you if there is a match."
+  },
+  "hero": {
+    "title": "A <highlight>unique</highlight> approach to learning foreign languages online",
+    "subtitle": "Learn at your own pace, with lifetime access on mobile and desktop",
+    "imageAlt": "Stanford English Academy students in the classroom"
+  },
+  "about": {
+    "meta": {
+      "title": "About us | Stanford English Academy",
+      "description": "Learn about the mission, vision, and history of Stanford English Academy in Los Patios, Norte de Santander."
+    },
+    "label": "ABOUT US",
+    "title": "Stanford English Academy",
+    "context": {
+      "title": "The institution and its context",
+      "p1": "Stanford English Academy (S.E.A.) was created as an option to complement, update, and supplement knowledge and training in academic and vocational areas, generating opportunities for economic and social development in the municipality of Los Patios, in the department of Norte de Santander, by promoting academic and vocational training through linguistic and communicative competencies for young people and adults who join our educational organization.",
+      "p2": "This educational purpose makes Stanford English Academy (S.E.A.) a leading organization in fostering high-quality educational processes that are relevant and aligned with the development visions set out in Colombia's National Development Plan 2024–2027 «Norte territorio de paz» and the Municipal Development Plan 2024–2027 «Building a safe and caring city!»",
+      "p3": "Through fieldwork carried out by members of Stanford English Academy (S.E.A.), we have found that many factors lie behind the challenges affecting the local community—economic, social, political, cultural, and environmental. This community needs to be mobilized socially by improving conditions that support academic, vocational, civic, and human development so that its members can directly contribute to collective well-being.",
+      "p4": "From this institutional vision, Stanford English Academy (S.E.A.) emerges as a new pedagogical organization committed to understanding education as a dynamic learning process that optimizes human capacities, through which individuals not only acquire cultural goods and values but also integrate critically and creatively into everyday social life."
+    },
+    "vision": {
+      "title": "Vision",
+      "content": "By 2029, Stanford English Academy (S.E.A.) will be a benchmark in the municipality of Los Patios and the department of Norte de Santander, recognized for offering education of the highest quality as an innovative language-teaching experience."
+    },
+    "mission": {
+      "title": "Mission",
+      "content": "To provide an excellent, highly competitive, innovative, and quality teaching service that enables our students to develop communicative skills in languages, serving the entire educational community of Los Patios and Norte de Santander and helping them expand their job opportunities and personal growth."
+    },
+    "legal": "Stanford School Academy is a private institution for Education for Work and Human Development. It is governed by Law 1064 of 2006 and Decree 1075 of 2015, with an operating license from the Departmental Secretariat of Education.",
+    "institution": {
+      "title": "About our institution",
+      "content": "We are a language training academy serving basic, secondary, technical, and higher education in group and individual settings, providing responsible, high-quality service."
+    },
+    "whatIsStanford": {
+      "title": "What is Stanford?",
+      "p1": "We are an academy with more than 14 years of experience in language teaching. We are passionate about serving and helping our entire educational community achieve their dreams by facilitating second-language learning.",
+      "p2": "We are fully committed to making a positive impact on every child, young person, and adult by offering better job opportunities and quality of life."
+    },
+    "mapTitle": "Our location"
+  },
+  "platform": {
+    "label": "OUR PLATFORM",
+    "title": "Any language you want to learn?",
+    "searchPlaceholder": "Search by title or description…",
+    "viewCourse": "View details for {title}",
+    "filters": {
+      "allLanguages": "All languages",
+      "allLevels": "All levels"
+    },
+    "pagination": {
+      "previous": "Previous",
+      "next": "Next",
+      "page": "Page {current} of {total}"
+    },
+    "carousel": {
+      "previous": "Previous courses",
+      "next": "Next courses",
+      "dotsLabel": "Course carousel navigation",
+      "goToSlide": "Go to group {number}",
+      "position": "{current} of {total}"
+    },
+    "modal": {
+      "students": "Students",
+      "teachers": "Teachers",
+      "materials": "Materials"
+    },
+    "courses": {
+      "c1": {
+        "title": "English A1/A2",
+        "meta": "Part time • 3 weeks",
+        "description": "Introductory course to start speaking English confidently in everyday situations."
+      },
+      "c2": {
+        "title": "French B1",
+        "meta": "Full time • 7 weeks",
+        "description": "Build fluency in French with conversational practice and intermediate grammar."
+      },
+      "c3": {
+        "title": "Advanced English",
+        "meta": "Part time • 5 weeks",
+        "description": "Refine your English with complex topics, advanced vocabulary, and natural expression."
+      },
+      "c4": {
+        "title": "English B2",
+        "meta": "Full time • 6 weeks",
+        "description": "Prepare to communicate confidently in academic and professional settings."
+      }
+    },
+    "liveCourseMeta": "Published course",
+    "noCoursesInFilter": "No courses match this filter yet."
+  },
+  "testimonials": {
+    "label": "OUR EXPERIENCE",
+    "title": "What studying at Stanford English Academy feels like",
+    "imageAlt": "Teacher with a group of students in the Stanford English Academy classroom",
+    "heading": "Learning together",
+    "subtitle": "In-person classes in Los Patios",
+    "quote": "In class we feel supported. Teachers explain patiently, and we practice English with classmates without fear of making mistakes."
+  },
+  "stories": {
+    "label": "OUR STUDENTS",
+    "title": "Meet the people learning with us",
+    "imageAlt": "Student {number}",
+    "playVideo": "Play student video",
+    "viewStory": "View {name}'s story",
+    "reviews": {
+      "s1": {
+        "name": "Diego M.",
+        "location": "Los Patios",
+        "quote": "Classes are lively—I finally speak English without second-guessing myself."
+      },
+      "s2": {
+        "name": "Camila S.",
+        "location": "Los Patios",
+        "quote": "The platform makes revision easy before every test. Highly recommend it!"
+      },
+      "s3": {
+        "name": "Andrés P.",
+        "location": "Los Patios",
+        "quote": "Teachers explain everything clearly. I moved up a level in three months."
+      },
+      "s4": {
+        "name": "Sebastián R.",
+        "location": "Los Patios",
+        "quote": "I love studying on my phone. The course material is always well structured."
+      }
+    }
+  },
+  "faq": {
+    "label": "MORE INFO",
+    "title": "Common questions",
+    "items": {
+      "q1": {
+        "question": "How do I enroll in a course?",
+        "answer": "Create an account with your email, sign in, and choose a course on our platform. An admin can assign you specific courses."
+      },
+      "q2": {
+        "question": "Can I study at my own pace?",
+        "answer": "Yes. All content stays available on mobile and desktop so you can progress whenever you want."
+      },
+      "q3": {
+        "question": "How do exams work?",
+        "answer": "You must view all material and pass the final evaluation. Open questions are reviewed by an administrator."
+      },
+      "q4": {
+        "question": "How many exam attempts do I get?",
+        "answer": "Each course defines the maximum attempts and time limit; your administrator configures them."
+      }
+    }
+  },
+  "contact": {
+    "meta": {
+      "title": "Contact | Stanford English Academy",
+      "description": "Address, phone numbers, email, and location of Stanford English Academy in Los Patios, Norte de Santander."
+    },
+    "title": "Contact us",
+    "subtitle": "Start fulfilling your language dreams with us",
+    "placeholder": "Enter your email",
+    "mapTitle": "How to find us",
+    "fields": {
+      "address": "Address",
+      "municipality": "Municipality",
+      "neighborhood": "Neighborhood",
+      "phone": "Phone",
+      "mobile": "Mobile",
+      "email": "Email",
+      "chamberRegistration": "Chamber of Commerce registration",
+      "nit": "Tax ID (NIT)",
+      "enrollmentRenewal": "Enrollment renewal",
+      "director": "Director"
+    }
+  },
+  "footer": {
+    "contactHeading": "Contact",
+    "mapTitle": "Location",
+    "rights": "© {year} Stanford English Academy. All rights reserved."
+  },
+  "login": {
+    "title": "Log in",
+    "subtitle": "Access the platform with your email and password",
+    "email": "Email",
+    "password": "Password",
+    "submit": "Sign in",
+    "submitting": "Signing in…",
+    "back": "Back to home",
+    "forgotPassword": "Forgot your password?",
+    "errors": {
+      "invalidCredentials": "Incorrect email or password.",
+      "emailNotConfirmed": "Please confirm your email before signing in.",
+      "missingFields": "Please fill in all fields.",
+      "generic": "Could not sign in. Please try again."
+    },
+    "createAccount": "Create account",
+    "verified": "Your email is confirmed. You can sign in now."
+  },
+  "register": {
+    "title": "Create account",
+    "subtitle": "Register as a student and confirm your email to activate your account",
+    "fullName": "Full name",
+    "email": "Email",
+    "password": "Password",
+    "passwordHint": "At least 8 characters",
+    "submit": "Register",
+    "submitting": "Registering…",
+    "success": "Check your inbox and click the confirmation link to activate your account.",
+    "backToLogin": "Go to sign in",
+    "hasAccount": "Already have an account? Sign in",
+    "back": "Back to home",
+    "errors": {
+      "missingFields": "Please fill in all fields.",
+      "weakPassword": "Password must be at least 8 characters.",
+      "emailTaken": "An account with this email already exists.",
+      "generic": "Could not complete registration. Please try again."
+    }
+  },
+  "forgotPassword": {
+    "title": "Reset password",
+    "subtitle": "We'll email you a link to reset your password",
+    "email": "Email",
+    "submit": "Send reset link",
+    "submitting": "Sending…",
+    "success": "If an account exists for that email, you'll receive a link shortly.",
+    "backToLogin": "Back to login",
+    "errors": {
+      "missingEmail": "Enter your email address.",
+      "generic": "Could not send the reset link. Please try again."
+    }
+  },
+  "resetPassword": {
+    "title": "New password",
+    "subtitle": "Choose a secure password for your account",
+    "password": "New password",
+    "confirmPassword": "Confirm password",
+    "submit": "Save password",
+    "submitting": "Saving…",
+    "backToLogin": "Back to login"
+  },
+  "admin": {
+    "title": "Admin dashboard",
+    "comingSoon": "Coming soon: course and student management."
+  },
+  "student": {
+    "title": "Student area",
+    "comingSoon": "Coming soon: your courses and progress."
+  },
+  "app": {
+    "common": {
+      "language": "Language",
+      "schoolName": "Stanford Bilingual School",
+      "schoolLocation": "Los Patios - Norte de Satander",
+      "logout": "Log out",
+      "save": "Save",
+      "saving": "Saving…",
+      "cancel": "Cancel",
+      "delete": "Delete",
+      "deleting": "Deleting…",
+      "edit": "Edit",
+      "actions": "Actions",
+      "deleted": "Deleted successfully",
+      "published": "Published",
+      "draft": "Draft",
+      "open": "Open",
+      "preview": "Preview",
+      "download": "Download",
+      "back": "Back",
+      "viewAll": "View all",
+      "manage": "Manage",
+      "noDescription": "No description",
+      "fileUnavailable": "File unavailable",
+      "saveChanges": "Save changes",
+      "optional": "Optional",
+      "dash": "—",
+      "build": "Build",
+      "min": "min",
+      "dataTable": {
+        "rowsSelected": "{selected} of {total} row(s) selected.",
+        "rowsPerPage": "Rows per page",
+        "page": "Page {current} of {total}"
+      },
+      "columns": {
+        "name": "Name",
+        "email": "Email",
+        "courses": "Courses",
+        "created": "Created",
+        "role": "Role",
+        "order": "Order",
+        "title": "Title",
+        "type": "Type",
+        "status": "Status",
+        "language": "Language",
+        "urlPath": "URL / path",
+        "options": "Options",
+        "maxAttempts": "Max attempts",
+        "timeLimit": "Time limit",
+        "passPercent": "Pass %",
+        "questions": "Questions",
+        "bio": "Bio",
+        "code": "Code",
+        "groups": "Groups",
+        "titleEs": "Title (ES)",
+        "titleEn": "Title (EN)",
+        "titleFr": "Title (FR)",
+        "spanish": "Spanish",
+        "english": "English",
+        "french": "French",
+        "content": "Content"
+      },
+      "filters": {
+        "email": "Filter by email…",
+        "courses": "Filter courses…",
+        "languages": "Filter languages…",
+        "content": "Filter content…",
+        "exams": "Filter exams…",
+        "questions": "Filter questions…"
+      },
+      "roles": {
+        "student": "Student",
+        "teacher": "Teacher",
+        "admin": "Admin"
+      },
+      "contentTypes": {
+        "pdf": "PDF",
+        "youtube": "YouTube",
+        "image": "Image",
+        "excel": "Excel",
+        "word": "Word",
+        "powerpoint": "PowerPoint",
+    "video": "Video",
+    "audio": "Audio",
+    "other": "Other"
+      },
+      "contentViewer": {
+        "view": "View",
+        "download": "Download",
+        "backToCourse": "Back to course",
+        "viewed": "Viewed",
+        "previewUnavailable": "Preview not available",
+        "previewUnavailableHint": "Download the file to open it on your device."
+      },
+      "questionTypes": {
+        "single_choice": "Single choice",
+        "multiple_choice": "Multiple choice",
+        "true_false": "True / False",
+        "open": "Open answer"
+      },
+      "trueFalse": {
+        "true": "True",
+        "false": "False"
+      },
+      "assignedCourses": "Assigned courses",
+      "enrolledCourses": "Enrolled courses",
+      "noCoursesYet": "No courses yet. Create courses first to assign them.",
+      "noPublishedCoursesYet": "No courses yet. Create and publish courses first.",
+      "passwordMin": "Minimum 8 characters",
+      "passwordPlaceholder": "••••••••",
+      "selectLanguage": "Select language",
+      "selectType": "Select type",
+      "password": "Password",
+      "completionStatus": {
+        "in_progress": "In progress",
+        "pending_review": "Pending review",
+        "passed": "Passed",
+        "failed": "Failed"
+      },
+      "attemptStatus": {
+        "submitted": "Submitted"
+      },
+      "eventTypes": {
+        "completion_status_changed": "Completion status updated",
+        "group_created": "Group created",
+        "group_updated": "Group updated",
+        "group_deleted": "Group deleted",
+        "exam_answer_graded": "Answer graded"
+      },
+      "enrollmentStatus": {
+        "active": "Active",
+        "completed": "Completed",
+        "suspended": "Suspended",
+        "pending": "Pending approval"
+      },
+      "employmentType": {
+        "full_time": "Full-time",
+        "part_time": "Part-time",
+        "contract": "Contract",
+        "internship": "Internship",
+        "temporary": "Temporary"
+      },
+      "workMode": {
+        "on_site": "On-site",
+        "remote": "Remote",
+        "hybrid": "Hybrid"
+      },
+      "jobStatus": {
+        "draft": "Draft",
+        "published": "Published",
+        "closed": "Closed"
+      },
+      "applicationStatus": {
+        "new": "New",
+        "reviewed": "Reviewed",
+        "rejected": "Rejected",
+        "hired": "Hired"
+      }
+    },
+    "errors": {
+      "generic": "Something went wrong. Please try again.",
+      "titleRequired": "Title is required",
+      "titleRequiredAllLanguages": "Title is required in all languages",
+      "nameRequired": "Name is required",
+      "emailPasswordRequired": "Email and password are required",
+      "studentIdRequired": "Student id is required",
+      "teacherNameEmailPasswordRequired": "Name, email, and password are required",
+      "translationsAndCodeRequired": "All translations and code are required",
+      "titleAndTypeRequired": "Title and type are required",
+      "questionTextAndTypeRequired": "Question text and type are required",
+      "passwordMinLength": "Password must be at least 8 characters",
+      "alreadyEnrolled": "You are already enrolled in this course",
+      "enrollmentPending": "Your enrollment request is already pending approval",
+      "passwordsMismatch": "Passwords do not match",
+      "attemptNotFound": "Attempt not found",
+      "notEnrolled": "You are not enrolled in this course",
+      "attemptNotInProgress": "This attempt is no longer in progress",
+      "timeLimitExceeded": "Time limit exceeded",
+      "maxAttemptsReached": "Maximum attempts reached",
+      "attemptAlreadySubmitted": "This attempt was already submitted",
+      "unansweredQuestions": "Please answer all questions before submitting",
+      "courseNotAvailable": "This course is not available yet",
+      "forbidden": "You do not have permission to do that",
+      "notAllowedCourse": "You cannot manage this course",
+      "choiceOptionsMinTwo": "Choice questions need at least two options",
+      "examNotFound": "Exam not found",
+      "questionNotFound": "Question not found",
+      "answerNotFound": "Answer not found",
+      "fileTooLarge": "File must be 50 MB or smaller",
+      "avatarTooLarge": "Avatar must be 2 MB or smaller",
+      "avatarInvalidType": "Avatar must be JPG, PNG, WebP, or GIF",
+      "groupNameRequired": "Group name is required.",
+      "groupFull": "This group has reached its maximum number of students.",
+      "groupInactive": "This group is not active.",
+      "groupInvalid": "The selected group does not belong to this course.",
+      "groupHasEnrollments": "Remove or reassign students before deleting this group.",
+      "emailAlreadyRegistered": "An account with this email address already exists.",
+      "jobNotFound": "Job posting not found",
+      "jobClosed": "This position is not accepting applications",
+      "applicationDeadlinePassed": "The application deadline has passed",
+      "cvInvalidType": "CV file type not allowed. Use PDF, Word, or image.",
+      "cvTooLarge": "CV must be 10 MB or smaller",
+      "applicationNotFound": "Application not found",
+      "invalidApplication": "Please fill in all required fields",
+      "honeypotTriggered": "Invalid submission"
+    },
+    "admin": {
+      "role": "Admin",
+      "nav": {
+        "dashboard": "Dashboard",
+        "students": "Students",
+        "teachers": "Teachers",
+        "languages": "Languages",
+        "courses": "Courses",
+        "jobs": "Jobs",
+        "profile": "Profile"
+      },
+      "dashboard": {
+        "title": "Admin dashboard",
+        "subtitle": "Manage students, teachers, languages, and courses."
+      },
+      "jobs": {
+        "pageTitle": "Job postings",
+        "subtitle": "Create and manage employment opportunities shown on the public careers page.",
+        "newButton": "New job",
+        "newTitle": "New job posting",
+        "editTitle": "Edit job posting",
+        "createButton": "Create job",
+        "toastCreated": "Job posting created",
+        "toastUpdated": "Job posting updated",
+        "deleteTitle": "Delete job posting",
+        "deleteDescription": "This will permanently delete \"{title}\" and all applications.",
+        "title": "Title",
+        "description": "Description",
+        "requirements": "Requirements",
+        "benefits": "Benefits",
+        "employmentType": "Employment type",
+        "workMode": "Work mode",
+        "location": "Location",
+        "salaryMin": "Salary min",
+        "salaryMax": "Salary max",
+        "salaryCurrency": "Currency",
+        "showSalary": "Show salary on public page",
+        "contactEmail": "Contact email",
+        "contactPhone": "Contact phone",
+        "deadline": "Application deadline",
+        "status": "Status",
+        "applicants": "Applicants",
+        "viewApplications": "Applications",
+        "backToJobs": "Job postings",
+        "applicationsTitle": "Applications — {title}",
+        "applicationsSubtitle": "{count, plural, one {# application} other {# applications}}",
+        "noApplications": "No applications yet.",
+        "applicantName": "Applicant",
+        "yearsExperience": "Experience (years)",
+        "appliedAt": "Applied",
+        "applicationStatus": "Status",
+        "cv": "CV",
+        "downloadCv": "Download CV"
+      },
+      "students": {
+        "title": "Students",
+        "subtitle": "Create students, manage credentials, and enroll them in courses.",
+        "newButton": "New student",
+        "editTitle": "Edit student",
+        "newTitle": "New student",
+        "editDescription": "Update student account and course enrollments.",
+        "newDescription": "Create a student account. Students cannot self-register.",
+        "namePlaceholder": "Jane Doe",
+        "toastCreated": "Student created",
+        "toastUpdated": "Student updated",
+        "createButton": "Create student",
+        "deleteTitle": "Delete student",
+        "deleteDescription": "This will permanently delete {name}.",
+        "passwordKeep": " (leave blank to keep)",
+        "emailPlaceholder": "student@example.com"
+      },
+      "pendingEnrollments": {
+        "title": "Pending enrollments",
+        "subtitle": "Approve or reject course join requests from new students.",
+        "empty": "No pending enrollment requests.",
+        "approve": "Approve",
+        "reject": "Reject",
+        "approved": "Enrollment approved",
+        "rejected": "Enrollment request rejected",
+        "unknownStudent": "Unknown student",
+        "unknownCourse": "Unknown course",
+        "requestedAt": "Requested {date}"
+      },
+      "teachers": {
+        "title": "Teachers",
+        "subtitle": "Create teachers, assign languages, and link them to courses.",
+        "newButton": "New teacher",
+        "editTitle": "Edit teacher",
+        "newTitle": "New teacher",
+        "editDescription": "Update teacher profile, credentials, and course assignments.",
+        "newDescription": "Create a teacher account and assign courses.",
+        "namePlaceholder": "John Smith",
+        "bioPlaceholder": "Optional bio…",
+        "toastCreated": "Teacher created",
+        "toastUpdated": "Teacher updated",
+        "createButton": "Create teacher",
+        "deleteTitle": "Delete teacher",
+        "deleteDescription": "This will permanently delete {name}."
+      },
+      "languages": {
+        "title": "Languages",
+        "subtitle": "Manage languages available for courses and teacher profiles.",
+        "newButton": "New language",
+        "editTitle": "Edit language",
+        "newTitle": "New language",
+        "nameLabel": "Name",
+        "namePlaceholder": "English",
+        "toastCreated": "Language created",
+        "toastUpdated": "Language updated",
+        "createButton": "Create language",
+        "deleteTitle": "Delete language",
+        "deleteDescription": "This will permanently delete \"{name}\"."
+      },
+      "courses": {
+        "title": "Courses",
+        "subtitle": "Create and manage courses. Only admins can add or edit courses.",
+        "newButton": "New course",
+        "editTitle": "Edit course",
+        "newTitle": "New course",
+        "toastCreated": "Course created",
+        "toastUpdated": "Course updated",
+        "createButton": "Create course",
+        "deleteTitle": "Delete course",
+        "deleteDescription": "This will permanently delete \"{title}\".",
+        "exams": "Exams",
+        "level": "CEFR level",
+        "levelPlaceholder": "Select level",
+        "noLevel": "No level"
+      },
+      "content": {
+        "backToCourses": "Courses",
+        "pageTitle": "Content — {course}",
+        "title": "Course content",
+        "subtitle": "Manage lessons and materials for this course.",
+        "newButton": "New content",
+        "editTitle": "Edit content",
+        "newTitle": "New content",
+        "description": "Add lessons, PDFs, videos, or other materials for this course.",
+        "titlePlaceholder": "Lesson 1 — Introduction",
+        "sortOrder": "Sort order",
+        "sortOrderHint": "Optional. Leave blank to assign the next order automatically.",
+        "externalUrl": "External URL",
+        "fileUpload": "File upload",
+        "fileHint": "Optional. Uploaded to the private courses bucket. For video, MP4 (H.264) gives the best browser compatibility.",
+        "currentFile": "Current file: {name}",
+        "toastCreated": "Content created",
+        "toastUpdated": "Content updated",
+        "createButton": "Create content",
+        "deleteTitle": "Delete content",
+        "deleteDescription": "This will permanently delete \"{title}\"."
+      },
+      "chatbot": {
+        "nav": "Practice chat",
+        "pageTitle": "Practice chat — {course}",
+        "subtitle": "Configure the AI practice tutor for enrolled students.",
+        "backToCourses": "Courses",
+        "enabled": "Enable practice chat",
+        "enabledHelp": "Students can use the chatbot only when this is enabled.",
+        "systemInstructions": "Custom instructions",
+        "systemInstructionsHelp": "Define how the tutor should behave for this course.",
+        "systemInstructionsPlaceholder": "Focus on conversational practice, correct common mistakes gently, and use examples from the course materials.",
+        "welcomeMessage": "Welcome message",
+        "welcomeMessageHelp": "Shown when the student opens the chat with no history.",
+        "welcomeMessagePlaceholder": "Hi! I am your practice tutor. Ask me to quiz you or explain a topic from this course.",
+        "advanced": "Advanced model settings",
+        "model": "Model",
+        "temperature": "Temperature",
+        "topP": "Top P",
+        "maxTokens": "Max tokens",
+        "save": "Save configuration",
+        "saving": "Saving…",
+        "toastSaved": "Chatbot configuration saved"
+      }
+    },
+    "teacher": {
+      "role": "Teacher",
+      "nav": {
+        "courses": "My courses",
+        "profile": "Profile"
+      },
+      "dashboard": {
+        "title": "My courses",
+        "subtitle": "Assigned courses. Manage exams and grades per course.",
+        "empty": "No courses assigned yet. Ask an administrator.",
+        "noLanguage": "No language"
+      },
+      "course": {
+        "back": "Back to courses",
+        "exams": "Exams",
+        "grades": "Grades",
+        "content": "Content",
+        "practiceChat": "Practice chat",
+        "students": "Students",
+        "noStudents": "No students enrolled.",
+        "statusLabel": "Status: {status}",
+        "allGroups": "All groups",
+        "viewResponses": "View responses and history"
+      },
+      "content": {
+        "title": "Course content",
+        "subtitle": "Upload lessons, PDFs, videos, and other materials for your students."
+      },
+      "exams": {
+        "title": "Exams",
+        "subtitle": "Create and manage exams for this course.",
+        "newButton": "New exam",
+        "editTitle": "Edit exam",
+        "newTitle": "New exam",
+        "description": "Set title, attempt limits, time limit, and pass threshold.",
+        "titlePlaceholder": "Midterm evaluation",
+        "maxAttempts": "Max attempts",
+        "timeLimit": "Time limit (minutes)",
+        "passThreshold": "Pass threshold (%)",
+        "optionalPlaceholder": "Optional",
+        "toastCreated": "Exam created",
+        "toastUpdated": "Exam updated",
+        "createButton": "Create exam",
+        "deleteTitle": "Delete exam",
+        "deleteDescription": "This will permanently delete \"{title}\".",
+        "questionsPage": {
+          "subtitle": "Build questions for this exam. Students cannot take the exam until questions are added.",
+          "back": "Exams"
+        }
+      },
+      "questions": {
+        "newButton": "New question",
+        "editTitle": "Edit question",
+        "newTitle": "New question",
+        "description": "Add a question with options or an open answer.",
+        "textPlaceholder": "What is the past tense of 'go'?",
+        "sortOrder": "Sort order",
+        "optionsLabel": "Answer options",
+        "addOption": "Add option",
+        "correct": "Correct",
+        "toastCreated": "Question created",
+        "toastUpdated": "Question updated",
+        "createButton": "Create question",
+        "deleteTitle": "Delete question",
+        "deleteDescription": "This will permanently delete this question and its options.",
+        "count": "{count} questions",
+        "emptyTitle": "No questions yet",
+        "emptyDescription": "Add the first question so students can take this exam.",
+        "dragToReorder": "Drag to reorder",
+        "optionsPreview": "{count} options",
+        "reorderSuccess": "Order updated",
+        "reorderError": "Could not update order"
+      },
+      "grades": {
+        "title": "Grades & reviews",
+        "subtitle": "Review open-question submissions and track attempt status.",
+        "pending": "Pending review ({count})",
+        "allAttempts": "All attempts ({count})",
+        "noAttempts": "No attempts yet.",
+        "noAnswer": "No answer",
+        "markedCorrect": "Marked correct",
+        "markedIncorrect": "Marked incorrect",
+        "attemptDetail": "Attempt review",
+        "student": "Student",
+        "exam": "Exam",
+        "score": "Score",
+        "status": "Status",
+        "markCorrect": "Mark correct",
+        "markIncorrect": "Mark incorrect",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "nothingPending": "Nothing pending."
+      },
+      "chatbot": {
+        "title": "Practice chat",
+        "subtitle": "Configure the AI practice tutor for your students.",
+        "enabled": "Enable practice chat",
+        "enabledHelp": "Students can use the chatbot only when this is enabled.",
+        "systemInstructions": "Custom instructions",
+        "systemInstructionsHelp": "Define how the tutor should behave for this course.",
+        "systemInstructionsPlaceholder": "Focus on conversational practice, correct common mistakes gently, and use examples from the course materials.",
+        "welcomeMessage": "Welcome message",
+        "welcomeMessageHelp": "Shown when the student opens the chat with no history.",
+        "welcomeMessagePlaceholder": "Hi! I am your practice tutor. Ask me to quiz you or explain a topic from this course.",
+        "advanced": "Advanced model settings",
+        "model": "Model",
+        "temperature": "Temperature",
+        "topP": "Top P",
+        "maxTokens": "Max tokens",
+        "save": "Save configuration",
+        "saving": "Saving…",
+        "toastSaved": "Chatbot configuration saved"
+      }
+    },
+    "platform": {
+      "courseNav": {
+        "coursesLabel": "Courses",
+        "selectCourse": "Select course",
+        "sectionLabel": "Course sections",
+        "overview": "Overview",
+        "content": "Content",
+        "exams": "Exams",
+        "grades": "Grades",
+        "practice": "Practice",
+        "chatbot": "Practice chat",
+        "progress": "Progress",
+        "groups": "Groups",
+        "examResult": "Exam result",
+        "attemptReview": "Attempt review"
+      }
+    },
+    "groups": {
+      "title": "Course groups",
+      "subtitle": "Create groups, assign teachers, and manage students per group.",
+      "newButton": "New group",
+      "editTitle": "Edit group",
+      "newTitle": "New group",
+      "editDescription": "Update the group and assign teachers.",
+      "newDescription": "Create a group for this course.",
+      "name": "Group name",
+      "namePlaceholder": "Group 2",
+      "sortOrder": "Sort order",
+      "sortOrderHint": "Optional. Leave blank to assign the next order automatically.",
+      "maxStudents": "Max students",
+      "active": "Active group",
+      "teachers": "Teachers",
+      "teachersHelper": "Select the teachers who will lead this group.",
+      "studentsHelper": "Manage students with \"Manage students\" on each group in the list.",
+      "classmates": "Classmates",
+      "yourGroup": "Your group: {name}",
+      "unnamedTeacher": "Teacher",
+      "unnamedStudent": "Student",
+      "noTeachers": "No teachers assigned",
+      "noClassmates": "No classmates in this group",
+      "assignGroups": "Enroll in groups",
+      "assignTeacherGroups": "Assign to groups",
+      "noGroups": "No groups in this course",
+      "studentCount": "{count, plural, one {# student} other {# students}}",
+      "teacherCount": "{count, plural, one {# teacher} other {# teachers}}",
+      "rosterSummary": "{students, plural, one {# student} other {# students}} · {teachers, plural, one {# teacher} other {# teachers}}",
+      "manageStudents": "Manage students",
+      "manageStudentsTitle": "Students — {name}",
+      "manageStudentsDescription": "Add or remove students in this group. Removing a student unenrolls them from the course.",
+      "currentStudents": "Students in group",
+      "addStudents": "Add students",
+      "addStudentsButton": "Add selected",
+      "selectStudentsToAdd": "Select at least one student to add.",
+      "noStudentsInGroup": "No students in this group yet.",
+      "noStudentsAvailable": "No more students available to add.",
+      "removeStudent": "Remove",
+      "toastStudentsAdded": "Students added to group",
+      "toastStudentRemoved": "Student removed from course",
+      "createStudentHint": "Need to create a new account?",
+      "createStudentLink": "Go to Students",
+      "capacity": "Max {max}",
+      "empty": "No groups yet. Create the first one.",
+      "createButton": "Create group",
+      "toastCreated": "Group created",
+      "toastUpdated": "Group updated",
+      "deleteTitle": "Delete group",
+      "deleteDescription": "This will permanently delete \"{name}\"."
+    },
+    "progress": {
+      "title": "Course progress",
+      "subtitle": "Track viewed materials, exams, and history.",
+      "materialProgress": "Viewed materials",
+      "materialsViewed": "{viewed} of {total} materials",
+      "group": "Group",
+      "noStudents": "No students to show.",
+      "examHistory": "Exam history",
+      "audit": "Audit log"
+    },
+    "student": {
+      "role": "Student",
+      "nav": {
+        "courses": "My courses",
+        "profile": "Profile"
+      },
+      "dashboard": {
+        "title": "My courses",
+        "myCourses": "Enrolled courses",
+        "subtitle": "Courses you are enrolled in. Open a course to view lessons and materials.",
+        "empty": "You are not enrolled in any courses yet. Browse available courses below to join.",
+        "enrolled": "Enrolled",
+        "completedOn": "Completed {date}"
+      },
+      "catalog": {
+        "title": "Available courses",
+        "subtitle": "Join a course to start learning. New students may need admin approval.",
+        "join": "Join course",
+        "joined": "You joined the course",
+        "requestPending": "Enrollment request sent. An administrator will review it soon.",
+        "pendingBadge": "Pending approval",
+        "pendingTitle": "Pending requests",
+        "empty": "No additional courses available right now.",
+        "noDescription": "No description",
+        "noLanguage": "No language"
+      },
+      "course": {
+        "back": "My courses",
+        "viewExams": "View exams",
+        "viewPractice": "Practice with AI tutor",
+        "unpublished": "This course is not published yet. Content and exams will appear when your teacher publishes it.",
+        "content": "Course content",
+        "noContent": "No content published for this course yet.",
+        "progress": "{viewed} of {total} materials viewed",
+        "viewed": "Viewed",
+        "progressSummary": "Your progress",
+        "courseStatus": "Course status",
+        "completedOn": "Completed on {date}",
+        "allMaterialsReviewed": "All materials reviewed",
+        "materialsNotReviewed": "{count, plural, one {# material not reviewed} other {# materials not reviewed}}",
+        "notViewed": "Not viewed",
+        "unavailable": "Unavailable",
+        "requirements": "Requirements",
+        "materialsRequirement": "Materials: {viewed}/{total} reviewed",
+        "examsRequirement": "Exams",
+        "noExamsRequired": "No exams required",
+        "whatsLeft": "What's left: {items}",
+        "whatsLeftReviewMaterials": "{count, plural, one {review # material} other {review # materials}}",
+        "whatsLeftPassExams": "{count, plural, one {pass # exam} other {pass # exams}}",
+        "whatsLeftNothing": "All requirements complete",
+        "viewFirstUnreviewed": "Review next material",
+        "goToExams": "Go to exams",
+        "examNotStarted": "Not started"
+      },
+      "exams": {
+        "title": "Exams",
+        "subtitle": "Take exams for this course. You can retry until you reach the maximum attempts.",
+        "attempts": "{count}/{max} attempts",
+        "timeLimit": "{minutes} min",
+        "passThreshold": "Pass {percent}%",
+        "bestScore": "Best score: {score}%",
+        "continue": "Continue",
+        "start": "Start exam",
+        "noAttemptsLeft": "No attempts left",
+        "empty": "No exams available for this course yet.",
+        "takeHint": "Answer each question and save before submitting the exam.",
+        "backToExams": "Exams",
+        "submitExam": "Submit exam",
+        "unansweredWarning": "{count, plural, one {# question not saved yet.} other {# questions not saved yet.}}",
+        "allAnswered": "All questions have saved answers.",
+        "confirmSubmit": "{count, plural, one {You have # unanswered question. Submit anyway?} other {You have # unanswered questions. Submit anyway?}}",
+        "saveAnswer": "Save answer",
+        "answerSaved": "Answer saved",
+        "saved": "Saved",
+        "yourAnswer": "Your answer",
+        "timeRemaining": "Time remaining: {time}",
+        "timeUp": "Time is up — submitting your exam…",
+        "resultSubmitted": "Exam submitted",
+        "resultPendingReview": "Your open-answer questions are being reviewed by your teacher. You will see your final score once grading is complete.",
+        "resultGradedNoThreshold": "Grading is complete. This exam has no pass threshold, so your score is shown without a pass/fail result.",
+        "resultSubmittedAt": "Submitted {date}",
+        "yourAnswers": "Your answers",
+        "unanswered": "Unanswered",
+        "pendingReview": "Pending review",
+        "correct": "Correct",
+        "incorrect": "Incorrect",
+        "awaitingReview": "Awaiting review",
+        "noQuestions": "No questions in this exam.",
+        "noAnswer": "No answer",
+        "viewAnswers": "View answers",
+        "attemptHistory": "Attempt history",
+        "correctAnswer": "Correct answer: {answer}"
+      },
+      "practice": {
+        "title": "Practice chat",
+        "pageSubtitle": "Review course topics with your AI practice tutor.",
+        "subtitle": "Ask questions, request quizzes, and get feedback.",
+        "disabled": "The practice chat is not available for this course yet. Your teacher will enable it when ready.",
+        "emptyTitle": "Start practicing",
+        "emptyDescription": "Ask a question about the course or request a short quiz to get started.",
+        "inputPlaceholder": "Ask your practice tutor…",
+        "send": "Send message",
+        "sending": "Sending…",
+        "responding": "Your tutor is responding…",
+        "responseInProgress": "A response is already in progress. Wait for it to finish before sending another message.",
+        "clearHistory": "Clear history",
+        "clearTitle": "Clear chat history?",
+        "clearDescription": "This removes your saved messages for this course. You cannot undo this action.",
+        "cleared": "Chat history cleared"
+      }
+    },
+    "profile": {
+      "title": "Profile",
+      "subtitle": "Update your name, photo, and password.",
+      "sectionProfile": "Profile",
+      "fullName": "Full name",
+      "saveProfile": "Save profile",
+      "saving": "Saving…",
+      "avatar": "Profile photo",
+      "avatarHint": "JPG, PNG, or WebP. Max 2 MB.",
+      "changePassword": "Change password",
+      "passwordHint": "Choose a password with at least 8 characters.",
+      "newPassword": "New password",
+      "confirmPassword": "Confirm password",
+      "updatePassword": "Update password",
+      "updating": "Updating…",
+      "profileUpdated": "Profile updated",
+      "passwordUpdated": "Password updated",
+      "avatarUpdated": "Photo updated"
+    }
+  }
+}
